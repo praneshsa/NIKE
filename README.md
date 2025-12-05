@@ -36,3 +36,16 @@
 
 ## 📂 Project Structure
 
+        Nike-Landing-Page
+│
+├── index.html          <-- your main webpage file
+├── style.css           <-- your CSS file
+├── README.md           <-- project documentation
+└── image/              <-- folder with all images
+     ├── nike-logo-0.png
+     ├── air-max-1-lx-shoes.png
+     ├── air-peg-2k5-shoes.png
+     ├── lunar-roam-shoes.png
+     ├── nocta-glide-shoes.png
+     └── terminator-high-shoes.png
+
