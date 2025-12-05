@@ -8,7 +8,8 @@
 ---
 
 ## 🚀 Preview
-![Project Screenshot](./image/screenshot.png)
+![Project Screenshot](<img width="1919" height="853" alt="Screenshot 2025-12-05 141233" src="https://github.com/user-attachments/assets/b920390a-db96-4e4c-8b51-cf57b4f2afc2" />
+)
 
 ---
 
