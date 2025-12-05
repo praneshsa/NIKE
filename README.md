@@ -1,10 +1,10 @@
-Nike Landing Page 🏀👟
+**Nike Landing Page 🏀👟**
 
 A modern and fully responsive Nike-themed product landing page built using **HTML** and **CSS**.  
 This project showcases a clean UI, smooth layout, product cards, and a hero section inspired by Nike's design style.
 
 
-🚀 Features
+**🚀 Features**
 
 - ✔ Clean and modern Nike-style UI  
 - ✔ Hero section with heading, description, and CTA button  
@@ -15,7 +15,7 @@ This project showcases a clean UI, smooth layout, product cards, and a hero sect
 - ✔ Minimal and well-organized code  
 
 
-🛠️ Technologies Used
+**🛠️ Technologies Used**
 
 - **HTML5**
 - **CSS3**
