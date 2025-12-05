@@ -1,23 +1,38 @@
-**Nike Landing Page 🏀👟**
+<h1 align="center">🎨 Nike Landing Page</h1>
 
-A modern and fully responsive Nike-themed product landing page built using **HTML** and **CSS**.  
-This project showcases a clean UI, smooth layout, product cards, and a hero section inspired by Nike's design style.
+<p align="center">
+  A modern and stylish landing page inspired by Nike's design.  
+  Built using <strong>HTML</strong> and <strong>CSS</strong> with a clean layout, product slider, and sleek UI.
+</p>
 
+---
 
-**🚀 Features**
+## 🚀 Preview
+![Project Screenshot](./image/screenshot.png)
 
-- ✔ Clean and modern Nike-style UI  
-- ✔ Hero section with heading, description, and CTA button  
-- ✔ Horizontal product slider (scrollable)  
-- ✔ Product cards with price, category, and shoe images  
-- ✔ Flexbox layout for easy structure  
-- ✔ Mobile-friendly design (optional if you add responsiveness)  
-- ✔ Minimal and well-organized code  
+---
 
+## 📌 Features
 
-**🛠️ Technologies Used**
+- 🔥 Modern Nike-inspired UI  
+- 💡 Clean landing page hero section  
+- 👟 Scrollable product slider  
+- 🎯 Well-structured HTML & CSS  
+- 📱 Smooth layout (responsive-ready)  
+- 🎨 Uses Google Fonts & Remix Icons  
 
-- **HTML5**
-- **CSS3**
-- **Google Fonts (Inter)**
-- **Remix Icon Library**
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Description |
+|-----------|-------------|
+| 🧱 HTML5 | Structure of the webpage |
+| 🎨 CSS3 | Styling & layout |
+| 🔤 Google Fonts (Inter) | Smooth modern typography |
+| 🖼️ Remix Icons | Navigation icons |
+
+---
+
+## 📂 Project Structure
+
