@@ -36,7 +36,7 @@
 
 ## 📂 Project Structure
 
-        Nike-Landing-Page
+        
 │
 ├── index.html          <-- your main webpage file
 ├── style.css           <-- your CSS file
