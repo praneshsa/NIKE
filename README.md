@@ -36,12 +36,13 @@
 
 ## 📂 Project Structure
 
-        
-│
-├── index.html          <-- your main webpage file
-├── style.css           <-- your CSS file
-├── README.md           <-- project documentation
-└── image/              <-- folder with all images
+        Nike-Landing-Page/
+
+  
+├── index.html          
+├── style.css           
+├── README.md           
+└── image/              
      ├── nike-logo-0.png
      ├── air-max-1-lx-shoes.png
      ├── air-peg-2k5-shoes.png
